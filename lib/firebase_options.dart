@@ -47,26 +47,17 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCUK82lqmlgnBOJTOqHjH-q6Jz_db_9Ip0',
-    appId: '1:1020173712813:web:6d5549f89073a5c9457524',
-    messagingSenderId: '1020173712813',
     projectId: 'login-test-7804f',
     authDomain: 'login-test-7804f.firebaseapp.com',
     storageBucket: 'login-test-7804f.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCGzp_ClYJms0w8fyuQeQWQ3TUgsPEJCag',
-    appId: '1:1020173712813:android:32c4032ecf11055f457524',
-    messagingSenderId: '1020173712813',
     projectId: 'login-test-7804f',
     storageBucket: 'login-test-7804f.firebasestorage.app',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCUK82lqmlgnBOJTOqHjH-q6Jz_db_9Ip0',
-    appId: '1:1020173712813:web:efe8607d80211269457524',
-    messagingSenderId: '1020173712813',
     projectId: 'login-test-7804f',
     authDomain: 'login-test-7804f.firebaseapp.com',
     storageBucket: 'login-test-7804f.firebasestorage.app',
